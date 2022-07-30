@@ -86,7 +86,7 @@
 
 * shor URL이라고 필요한 부분만 기존의 URL에서 수정, 삭제등을 하는 것이다.
 
-<img src ="https://github.com/adakim3297/GBC-WEB---3/blob/main/CSRF%20low%20-1.png?raw=true" width="500" height="450"/>
+<img src ="https://github.com/adakim3297/GBC-WEB---3/blob/main/CSRF%20low%20-1.png?raw=true" width="800" height="450"/>
 
     GET 방식으로 password를 URL에서 볼 수 있다.
 
